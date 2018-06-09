@@ -1,0 +1,8 @@
+{
+  "name": "ControldeAccesos",
+  "app_id": "cea4200f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
